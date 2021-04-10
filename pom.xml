@@ -13,7 +13,7 @@
 	<groupId>guru.spring</groupId>
 	<artifactId>Spring5webapp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Spring5webapp</name>
+	<name>GuruSpring5webapp</name>
 	<description>Spring 5 Web Application</description>
 	
 	<properties>
